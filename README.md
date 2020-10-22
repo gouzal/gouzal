@@ -6,7 +6,7 @@ Don't hesitate to contact me anytime.
 ## Some stats
 **Oops they don't count my private contributions** 🤦‍♂️  
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api?username=gouzal)   
-## Contact me:
+## 📫 How to reach me:
 gouzal(dot)larbi(at)outlook(dot)com
 
 <!--
