@@ -1,4 +1,4 @@
-### Hi there 👋, I am Larbi /lʕarbi/,
+### Hi there 👋, I am Larbi /lʕarbi/ (العربي),
 ## 👨‍💻 About Me
 I a fullstack software engineer from Morocco, working in Canada.
 I work mainly with Java and PHP, but i don't mind trying other tech stacks (TypeScript, Python, C#...etc). Indeed I am even open to other business fields such as Management and Marketing.  
