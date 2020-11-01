@@ -9,7 +9,8 @@ Don't hesitate to contact me anytime.
 ## 📫 How to reach me:
 gouzal(dot)larbi(at)outlook(dot)com
 
-<!--
+<!-- 
+ToDO: add logos for your technologies
 **gouzal/gouzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
