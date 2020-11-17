@@ -12,6 +12,8 @@ gouzal(dot)larbi(at)outlook(dot)com
 ## Follow Me:  
 <a href="https://www.linkedin.com/in/larbi-gouzal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruxtonau" height="20" width="20" /></a>
 <a href="https://instagram.com/gouzal.l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCaZQFb-UiqQ32SDXcL2hc3w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
+
 <!-- 
 ToDO: add logos for your technologies
 **gouzal/gouzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
