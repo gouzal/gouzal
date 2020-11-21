@@ -7,7 +7,7 @@ Don't hesitate to contact me anytime.
 **Oops they don't count my private contributions** 🤦‍♂️  
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api?username=gouzal&hide=contribs)   
 ## 📫 How to reach me:
-gouzal(dot)larbi(at)outlook(dot)com
+gouzal(dot)larbi(a)outlook(dot)com
 
 ## Follow Me:  
 <a href="https://www.linkedin.com/in/larbi-gouzal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruxtonau" height="20" width="20" /></a>
