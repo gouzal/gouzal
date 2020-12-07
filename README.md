@@ -14,6 +14,7 @@ gouzal(dot)larbi(a)outlook(dot)com
 <a href="https://instagram.com/gouzal.l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCaZQFb-UiqQ32SDXcL2hc3w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
 <a href="https://github.com/gouzal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
+<a href="https://github.com/gouzal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rhythmnpoetry" height="20" width="20" /></a>
 
 
 <!-- 
