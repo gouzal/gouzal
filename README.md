@@ -18,7 +18,7 @@ gouzal(dot)larbi(a)outlook(dot)com
 
 
 <!-- 
-ToDO: add logos for your technologies 
+ToDO: add logos for your technologies and andlinks to projets
 
 
 Here are some ideas to get you started:
