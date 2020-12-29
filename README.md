@@ -8,7 +8,7 @@ Don't hesitate to contact me anytime.
 **Oops they don't count my private contributions** 🤦‍♂️  
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api?username=gouzal&hide=contribs)   
 -->
-🔭 I’m currently working on
+
 -
 ## 📫 How to reach me:
 gouzal(dot)larbi(a)outlook(dot)com
