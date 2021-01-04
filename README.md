@@ -11,7 +11,7 @@ Don't hesitate to contact me anytime.
 
 -->
 ## 🎯 Some stats
-![Gouzal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzal&layout=compact&theme=radical&hide_border=false)
+![Gouzal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzal&layout=compact&hide_border=false)
 
 ## 📫 How to reach me:
 gouzal(dot)larbi(a)outlook(dot)com
