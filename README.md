@@ -8,8 +8,6 @@ Don't hesitate to contact me anytime.
 **Oops they don't count my private contributions** 🤦‍♂️  
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api?username=gouzal&hide=contribs)   
 
-
-## 🎯 Some stats
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzal&layout=compact&hide_border=false)
 -->
 ## 📫 How to reach me:
