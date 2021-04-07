@@ -11,9 +11,9 @@ Don't hesitate to contact me anytime.
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzal&layout=compact&hide_border=false)
 ![Metrics](https://metrics.lecoq.io/gouzal?template=terminal&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=96&stars.limit=4&config.timezone=Africa%2FCasablanca)
 -->
-<!-- -->
+<!-- 
 ![Metrics](https://metrics.lecoq.io/gouzal?template=terminal&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=96&stars.limit=4&config.timezone=Africa%2FCasablanca)
-
+-->
 ## 📫 How to reach me:
 gouzal(dot)larbi(a)outlook(dot)com
 
