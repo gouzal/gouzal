@@ -4,8 +4,7 @@ I a fullstack software engineer from Morocco, working in Canada.
 I work mainly with Java/Jakarta EE/Spring and PHP/Laravel, but i don't mind trying other tech stacks (Javascript, TypeScript, Python, C#... even VBA). Indeed I am even open to other business fields such as Management and Marketing.  
 Don't hesitate to contact me anytime.
 <!-- 
-## 🎯 Some stats
-
+## 🎯 Some stats  
 **Oops they don't count my private contributions** 🤦‍♂️  
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api?username=gouzal&hide=contribs)   
 ![Gouzal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzal&layout=compact&hide_border=false)
