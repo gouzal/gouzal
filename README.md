@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Larbi /lʕærbɪ/ (Arabic = العربي) ([Tamazight](https://en.wikipedia.org/wiki/Tifinagh#Neo-Tifinagh)  = ⵍⵄⴰⵔⴱⵉ) ,
 ## 👨‍💻 About Me
 I a fullstack software developer from Morocco, working in Canada.
-I work mainly with Java/Jakarta EE/Spring and PHP/Laravel, but i don't mind trying other tech stacks (Javascript, TypeScript, Python, C#... even VBA). Indeed I am even open to other business fields such as Management and Marketing.  
+I work mainly with Java/Jakarta EE/Spring and PHP/Laravel, but i don't mind trying other tech stacks (Javascript, Python, C#... even VBA). Indeed I am even open to other business fields such as Management and Marketing.  
 Don't hesitate to contact me anytime.
 <!-- 
 ## 🎯 Some stats  
